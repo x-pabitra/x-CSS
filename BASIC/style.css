@@ -1,0 +1,23 @@
+h1{
+    color: #2ec167;
+}
+.para{
+    color: green;
+}
+#btn{
+    background-color: red;
+  color: antiquewhite;
+}
+/* #btn:hover{
+
+} */
+
+#btn:hover{
+    background-color: black;
+    color: white;
+}
+
+h1:hover{
+    background-color: aqua;
+    color: blue;
+}
